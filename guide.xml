@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Boogle Bollywood">
     <display-name lang="en">Boogle Bollywood</display-name>
@@ -2416,7 +2416,7 @@
     <display-name lang="en">Surya Movies</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="Asianet HD">
+  <channel id="MALAYALAM: ASIANET HD">
     <display-name lang="en">Asianet HD</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
@@ -2432,11 +2432,11 @@
     <display-name lang="en">Asianet Plus</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="Asianet Movies">
+  <channel id="MALAYALAM: ASIANET MOVIES ">
     <display-name lang="en">Asianet Movies</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="Amrita TV">
+  <channel id="MALAYALAM: AMRITHA TV">
     <display-name lang="en">Amrita TV</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
