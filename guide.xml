@@ -1,0 +1,2707 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Boogle Bollywood">
+    <display-name lang="en">Boogle Bollywood</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Channel 100 Gold">
+    <display-name lang="en">Channel 100 Gold</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Marathi Cinema Offer">
+    <display-name lang="en">Marathi Cinema Offer</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ch 100 Binge">
+    <display-name lang="en">Ch 100 Binge</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Fitness">
+    <display-name lang="en">Tata Sky Fitness</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Acting Adda">
+    <display-name lang="en">Tata Sky Acting Adda</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TataSky ShortsTV HD">
+    <display-name lang="en">TataSky ShortsTV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky ShortsTV">
+    <display-name lang="en">Tata Sky ShortsTV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD National">
+    <display-name lang="en">DD National</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR PLUS HD">
+    <display-name lang="en">STAR PLUS HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR PLUS HD +1">
+    <display-name lang="en">STAR PLUS HD +1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Plus">
+    <display-name lang="en">STAR Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Beauty">
+    <display-name lang="en">Tata Sky Beauty</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Shoppe">
+    <display-name lang="en">Tata Sky Shoppe</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR BHARAT HD">
+    <display-name lang="en">STAR BHARAT HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR BHARAT">
+    <display-name lang="en">STAR BHARAT</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Dance Studio">
+    <display-name lang="en">Tata Sky Dance Studio</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Cooking">
+    <display-name lang="en">Tata Sky Cooking</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SET HD">
+    <display-name lang="en">SET HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SET">
+    <display-name lang="en">SET</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Today’s Special">
+    <display-name lang="en">Today’s Special</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY SAB HD">
+    <display-name lang="en">SONY SAB HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY SAB">
+    <display-name lang="en">SONY SAB</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Comedy">
+    <display-name lang="en">Tata Sky Comedy</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp;tv HD">
+    <display-name lang="en">&amp;tv HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp;tv">
+    <display-name lang="en">&amp;tv</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee TV HD">
+    <display-name lang="en">Zee TV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee TV HD +1">
+    <display-name lang="en">Zee TV HD +1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Beauty and Fashion Tips">
+    <display-name lang="en">Beauty and Fashion Tips</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors HD">
+    <display-name lang="en">Colors HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors HD +1">
+    <display-name lang="en">Colors HD +1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors">
+    <display-name lang="en">Colors</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Javed Akhtar">
+    <display-name lang="en">Tata Sky Javed Akhtar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bindass">
+    <display-name lang="en">Bindass</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="en">Investigation Discovery</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NT 1">
+    <display-name lang="en">NT 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Indology">
+    <display-name lang="en">Indology</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ezmall">
+    <display-name lang="en">Ezmall</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="In Goa 24x7">
+    <display-name lang="en">In Goa 24x7</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Utsav">
+    <display-name lang="en">STAR Utsav</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Z Anmol">
+    <display-name lang="en">Z Anmol</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Rishtey">
+    <display-name lang="en">Colors Rishtey</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sony Pal">
+    <display-name lang="en">Sony Pal</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="The Q India">
+    <display-name lang="en">The Q India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Big Magic">
+    <display-name lang="en">Big Magic</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Dangal">
+    <display-name lang="en">Dangal</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Anjan TV">
+    <display-name lang="en">Anjan TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Channel Promos">
+    <display-name lang="en">Channel Promos</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Kisan">
+    <display-name lang="en">DD Kisan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky World Screen">
+    <display-name lang="en">Tata Sky World Screen</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR World HD">
+    <display-name lang="en">STAR World HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase">
+    <display-name lang="en">Showcase</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR World">
+    <display-name lang="en">STAR World</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="StarPremiere HD">
+    <display-name lang="en">StarPremiere HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cafe HD">
+    <display-name lang="en">Zee Cafe HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cafe">
+    <display-name lang="en">Zee Cafe</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Infinity HD">
+    <display-name lang="en">Colors Infinity HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Infinity">
+    <display-name lang="en">Colors Infinity</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="en">Comedy Central HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Disney International HD">
+    <display-name lang="en">Disney International HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Darshan">
+    <display-name lang="en">Tata Sky Darshan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Bollywood Premiere HD">
+    <display-name lang="en">Tata Sky Bollywood Premiere HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Bollywood Premiere">
+    <display-name lang="en">Tata Sky Bollywood Premiere</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Hollywood Local">
+    <display-name lang="en">Tata Sky Hollywood Local</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR GOLD HD">
+    <display-name lang="en">STAR GOLD HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR GOLD HD +1">
+    <display-name lang="en">STAR GOLD HD +1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Gold">
+    <display-name lang="en">STAR Gold</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Show Bizz">
+    <display-name lang="en">Tata Sky Show Bizz</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY MAX HD">
+    <display-name lang="en">SONY MAX HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY  MAX">
+    <display-name lang="en">SONY  MAX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Theatre HD">
+    <display-name lang="en">Tata Sky Theatre HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tatasky Theatre">
+    <display-name lang="en">Tatasky Theatre</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Gold 2">
+    <display-name lang="en">Star Gold 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Classic Cinema">
+    <display-name lang="en">Tata Sky Classic Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cinema HD">
+    <display-name lang="en">Zee Cinema HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cinema HD +1">
+    <display-name lang="en">Zee Cinema HD +1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="UTV HD">
+    <display-name lang="en">UTV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="UTV Movies">
+    <display-name lang="en">UTV Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="UTV Action">
+    <display-name lang="en">UTV Action</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Bollywood">
+    <display-name lang="en">Zee Bollywood</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Classic">
+    <display-name lang="en">Zee Classic</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Housefull Movies">
+    <display-name lang="en">Housefull Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp; Pictures HD">
+    <display-name lang="en">&amp; Pictures HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp;pictures">
+    <display-name lang="en">&amp;pictures</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Cinema TV India">
+    <display-name lang="en">Cinema TV India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="B4U Kadak">
+    <display-name lang="en">B4U Kadak</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Action">
+    <display-name lang="en">Zee Action</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY WAH">
+    <display-name lang="en">SONY WAH</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="B4U Movies">
+    <display-name lang="en">B4U Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY MAX 2">
+    <display-name lang="en">SONY MAX 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Gold Select HD">
+    <display-name lang="en">Star Gold Select HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Gold Select">
+    <display-name lang="en">Star Gold Select</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Cineplex HD">
+    <display-name lang="en">Colors Cineplex HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Cineplex">
+    <display-name lang="en">Colors Cineplex</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="WOW Cinema One">
+    <display-name lang="en">WOW Cinema One</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Enterr10">
+    <display-name lang="en">Enterr10</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bflix Movies">
+    <display-name lang="en">Bflix Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Utsav Movies">
+    <display-name lang="en">STAR Utsav Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Anmol Cinema">
+    <display-name lang="en">Zee Anmol Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABZY Movies">
+    <display-name lang="en">ABZY Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Manoranjan TV">
+    <display-name lang="en">Manoranjan TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Maha Movie">
+    <display-name lang="en">Maha Movie</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Cinema">
+    <display-name lang="en">Surya Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Movies HD">
+    <display-name lang="en">STAR Movies HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Movies">
+    <display-name lang="en">STAR Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY PIX HD">
+    <display-name lang="en">SONY PIX HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY PIX">
+    <display-name lang="en">SONY PIX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp;Flix HD">
+    <display-name lang="en">&amp;Flix HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="&amp;Flix">
+    <display-name lang="en">&amp;Flix</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="WB">
+    <display-name lang="en">WB</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Movies Select HD">
+    <display-name lang="en">STAR Movies Select HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Movies Now HD">
+    <display-name lang="en">Movies Now HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Movies Now">
+    <display-name lang="en">Movies Now</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MN+ HD">
+    <display-name lang="en">MN+ HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Movies Now2 HD">
+    <display-name lang="en">Movies Now2 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MNX">
+    <display-name lang="en">MNX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Romedy Now HD">
+    <display-name lang="en">Romedy Now HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Romedy Now">
+    <display-name lang="en">Romedy Now</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="And prive HD">
+    <display-name lang="en">And prive HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase HD1">
+    <display-name lang="en">Showcase HD1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase HD2">
+    <display-name lang="en">Showcase HD2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase HD3">
+    <display-name lang="en">Showcase HD3</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase HD4">
+    <display-name lang="en">Showcase HD4</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Thirai">
+    <display-name lang="en">Zee Thirai</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase 1">
+    <display-name lang="en">Showcase 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase 2">
+    <display-name lang="en">Showcase 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Test 2301">
+    <display-name lang="en">Test 2301</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showcase 4">
+    <display-name lang="en">Showcase 4</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Mobile">
+    <display-name lang="en">Tata Sky Mobile</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Sports">
+    <display-name lang="en">DD Sports</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 HD">
+    <display-name lang="en">Star Sports 1 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Sports 1">
+    <display-name lang="en">STAR Sports 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 2 HD">
+    <display-name lang="en">Star Sports 2 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Sports 2">
+    <display-name lang="en">STAR Sports 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 3">
+    <display-name lang="en">Star Sports 3</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 HD Hindi">
+    <display-name lang="en">Star Sports 1 HD Hindi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 Hindi">
+    <display-name lang="en">Star Sports 1 Hindi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="What’s New?">
+    <display-name lang="en">What’s New?</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports Select 1 HD">
+    <display-name lang="en">Star Sports Select 1 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports Select 1">
+    <display-name lang="en">Star Sports Select 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Sports Select HD2">
+    <display-name lang="en">STAR Sports Select HD2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports Select 2">
+    <display-name lang="en">Star Sports Select 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 1 HD">
+    <display-name lang="en">SONY TEN 1 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 1">
+    <display-name lang="en">SONY TEN 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 2 HD">
+    <display-name lang="en">SONY TEN 2 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 2">
+    <display-name lang="en">SONY TEN 2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 3 HD">
+    <display-name lang="en">SONY TEN 3 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY TEN 3">
+    <display-name lang="en">SONY TEN 3</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY SIX HD">
+    <display-name lang="en">SONY SIX HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sony SIX">
+    <display-name lang="en">Sony SIX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY ESPN HD">
+    <display-name lang="en">SONY ESPN HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sony ESPN">
+    <display-name lang="en">Sony ESPN</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DSPORT">
+    <display-name lang="en">DSPORT</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports First">
+    <display-name lang="en">Star Sports First</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD News HD">
+    <display-name lang="en">DD News HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD News">
+    <display-name lang="en">DD News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP News">
+    <display-name lang="en">ABP News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Seniors">
+    <display-name lang="en">Tata Sky Seniors</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NDTV India">
+    <display-name lang="en">NDTV India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="LIVE TV on Mobile">
+    <display-name lang="en">LIVE TV on Mobile</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aaj Tak HD">
+    <display-name lang="en">Aaj Tak HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aaj Tak">
+    <display-name lang="en">Aaj Tak</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Family Health">
+    <display-name lang="en">Tata Sky Family Health</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee News">
+    <display-name lang="en">Zee News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="INDIA TV">
+    <display-name lang="en">INDIA TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 24">
+    <display-name lang="en">News 24</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 18 India">
+    <display-name lang="en">News 18 India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Hindustan">
+    <display-name lang="en">Zee Hindustan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="R Bharat">
+    <display-name lang="en">R Bharat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News">
+    <display-name lang="en">India News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News Nation">
+    <display-name lang="en">News Nation</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News World India">
+    <display-name lang="en">News World India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TOTAL TV">
+    <display-name lang="en">TOTAL TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Samachar">
+    <display-name lang="en">Surya Samachar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV9 Bharatvarsh">
+    <display-name lang="en">TV9 Bharatvarsh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News Haryana">
+    <display-name lang="en">India News Haryana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sudarshan News">
+    <display-name lang="en">Sudarshan News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ok india">
+    <display-name lang="en">Ok india</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="APN">
+    <display-name lang="en">APN</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MH One News">
+    <display-name lang="en">MH One News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News UP UK">
+    <display-name lang="en">India News UP UK</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News State UP UK">
+    <display-name lang="en">News State UP UK</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News MP CH">
+    <display-name lang="en">India News MP CH</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News Raj..">
+    <display-name lang="en">India News Raj..</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Samay">
+    <display-name lang="en">Samay</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Janta TV">
+    <display-name lang="en">Janta TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee UP UK">
+    <display-name lang="en">Zee UP UK</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News State Madhya Pradesh/Chhattisgarh">
+    <display-name lang="en">News State Madhya Pradesh/Chhattisgarh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 11 Bharat">
+    <display-name lang="en">News 11 Bharat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 1 India">
+    <display-name lang="en">News 1 India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Patrika TV Rajasthan">
+    <display-name lang="en">Patrika TV Rajasthan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SMBC Insight">
+    <display-name lang="en">SMBC Insight</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Hindi Khabar">
+    <display-name lang="en">Hindi Khabar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="R9 TV">
+    <display-name lang="en">R9 TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bharat Samachar">
+    <display-name lang="en">Bharat Samachar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Khabarain Abhi Tak">
+    <display-name lang="en">Khabarain Abhi Tak</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TEZ">
+    <display-name lang="en">TEZ</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Swaraj Express">
+    <display-name lang="en">Swaraj Express</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jantantra TV">
+    <display-name lang="en">Jantantra TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Business">
+    <display-name lang="en">Zee Business</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNBC Awaaz">
+    <display-name lang="en">CNBC Awaaz</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Lok Sabha TV">
+    <display-name lang="en">Lok Sabha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Rajya Sabha">
+    <display-name lang="en">Rajya Sabha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NDTV 24x7">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Times Now World">
+    <display-name lang="en">Times Now World</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TIMES NOW">
+    <display-name lang="en">TIMES NOW</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="INDIA TODAY">
+    <display-name lang="en">INDIA TODAY</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNN News 18">
+    <display-name lang="en">CNN News 18</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NewsX">
+    <display-name lang="en">NewsX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mirror Now">
+    <display-name lang="en">Mirror Now</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="WION">
+    <display-name lang="en">WION</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="REPUBLIC TV">
+    <display-name lang="en">REPUBLIC TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India Ahead">
+    <display-name lang="en">India Ahead</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD India">
+    <display-name lang="en">DD India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NDTV Profit-Prime">
+    <display-name lang="en">NDTV Profit-Prime</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNBC TV18 Prime HD">
+    <display-name lang="en">CNBC TV18 Prime HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNBC-TV18">
+    <display-name lang="en">CNBC-TV18</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ET NOW">
+    <display-name lang="en">ET NOW</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 9">
+    <display-name lang="en">News 9</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNN Intl">
+    <display-name lang="en">CNN Intl</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="BBC WORLD">
+    <display-name lang="en">BBC WORLD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Al Jazeera Eng">
+    <display-name lang="en">Al Jazeera Eng</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Channel NewsAsia">
+    <display-name lang="en">Channel NewsAsia</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV5Monde Asie">
+    <display-name lang="en">TV5Monde Asie</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="en">DW</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Australia Plus">
+    <display-name lang="en">Australia Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NHK World TV">
+    <display-name lang="en">NHK World TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Hungama">
+    <display-name lang="en">Hungama</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MARVEL HQ">
+    <display-name lang="en">MARVEL HQ</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky English in Hindi">
+    <display-name lang="en">Tata Sky English in Hindi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nick HD+">
+    <display-name lang="en">Nick HD+</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nick">
+    <display-name lang="en">Nick</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Fun Learn - Preschool">
+    <display-name lang="en">Tata Sky Fun Learn - Preschool</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Smart Games">
+    <display-name lang="en">Tata Sky Smart Games</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Pogo">
+    <display-name lang="en">Pogo</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="en">Discovery Kids</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sonic Nickelodeon">
+    <display-name lang="en">Sonic Nickelodeon</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Baby TV HD">
+    <display-name lang="en">Baby TV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="en">Nick Jr.</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY YAY !">
+    <display-name lang="en">SONY YAY !</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Fun Learn - Junior">
+    <display-name lang="en">Tata Sky Fun Learn - Junior</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kushi TV">
+    <display-name lang="en">Kushi TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Chutti TV">
+    <display-name lang="en">Chutti TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Chintu TV">
+    <display-name lang="en">Chintu TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kochu TV">
+    <display-name lang="en">Kochu TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Smart Manager">
+    <display-name lang="en">Tata Sky Smart Manager</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Vedic Maths">
+    <display-name lang="en">Tata Sky Vedic Maths</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NGC HD">
+    <display-name lang="en">NGC HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NGC">
+    <display-name lang="en">NGC</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="AnimalPlanet HD">
+    <display-name lang="en">AnimalPlanet HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="History TV18 HD">
+    <display-name lang="en">History TV18 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="History TV18">
+    <display-name lang="en">History TV18</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY BBC EARTH HD">
+    <display-name lang="en">SONY BBC EARTH HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY BBC EARTH">
+    <display-name lang="en">SONY BBC EARTH</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="EPIC">
+    <display-name lang="en">EPIC</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TestService">
+    <display-name lang="en">TestService</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="en">FOX Life HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="en">FOX Life</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Gyan Darshan">
+    <display-name lang="en">DD Gyan Darshan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="GOOD TiMES">
+    <display-name lang="en">GOOD TiMES</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="en">Discovery Turbo</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Travelxp HD">
+    <display-name lang="en">Travelxp HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Travelxp">
+    <display-name lang="en">Travelxp</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Food Food">
+    <display-name lang="en">Food Food</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Living Foodz HD">
+    <display-name lang="en">Living Foodz HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Living Foodz">
+    <display-name lang="en">Living Foodz</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FYI TV18">
+    <display-name lang="en">FYI TV18</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FTV India">
+    <display-name lang="en">FTV India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Ibaadat">
+    <display-name lang="en">Tata Sky Ibaadat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MTV HD+">
+    <display-name lang="en">MTV HD+</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="en">MTV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="9XM">
+    <display-name lang="en">9XM</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zoom">
+    <display-name lang="en">Zoom</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="E24">
+    <display-name lang="en">E24</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Music">
+    <display-name lang="en">Tata Sky Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY MIX">
+    <display-name lang="en">SONY MIX</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Music+">
+    <display-name lang="en">Tata Sky Music+</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MTV Beats HD">
+    <display-name lang="en">MTV Beats HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MTV Beats">
+    <display-name lang="en">MTV Beats</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="B4U Music">
+    <display-name lang="en">B4U Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Classic Cinema">
+    <display-name lang="en">Classic Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Z ETC Bollywood">
+    <display-name lang="en">Z ETC Bollywood</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mastiii">
+    <display-name lang="en">Mastiii</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zing">
+    <display-name lang="en">Zing</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bollywood Premiere">
+    <display-name lang="en">Bollywood Premiere</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="BollywoodP">
+    <display-name lang="en">BollywoodP</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aaho Music">
+    <display-name lang="en">Aaho Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Music India">
+    <display-name lang="en">Music India</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="9X Jalwa">
+    <display-name lang="en">9X Jalwa</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Insync">
+    <display-name lang="en">Insync</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="iLove Pen Studios">
+    <display-name lang="en">iLove Pen Studios</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Showbox">
+    <display-name lang="en">Showbox</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="en">VH1 HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TRAI Tariff Order">
+    <display-name lang="en">TRAI Tariff Order</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Aradhana">
+    <display-name lang="en">Tata Sky Aradhana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aastha">
+    <display-name lang="en">Aastha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sanskar TV">
+    <display-name lang="en">Sanskar TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Disha TV">
+    <display-name lang="en">Disha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Paras TV">
+    <display-name lang="en">Paras TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MH One Shraddha">
+    <display-name lang="en">MH One Shraddha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sadhana TV">
+    <display-name lang="en">Sadhana TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Lord Buddha TV">
+    <display-name lang="en">Lord Buddha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Peace of Mind">
+    <display-name lang="en">Peace of Mind</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jinvani">
+    <display-name lang="en">Jinvani</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Arihant">
+    <display-name lang="en">Arihant</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ishwar TV">
+    <display-name lang="en">Ishwar TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Satsang">
+    <display-name lang="en">Satsang</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Shubh TV">
+    <display-name lang="en">Shubh TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aastha Bhajan">
+    <display-name lang="en">Aastha Bhajan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vedic">
+    <display-name lang="en">Vedic</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sarthi TV">
+    <display-name lang="en">Sarthi TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Subharti TV">
+    <display-name lang="en">Subharti TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DIVYA">
+    <display-name lang="en">DIVYA</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Fateh TV">
+    <display-name lang="en">Fateh TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ek Onkar">
+    <display-name lang="en">Ek Onkar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 UP UK">
+    <display-name lang="en">News18 UP UK</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Bihar Jharkhand">
+    <display-name lang="en">News18 Bihar Jharkhand</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP Ganga">
+    <display-name lang="en">ABP Ganga</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FM News">
+    <display-name lang="en">FM News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Bhojpuri Sanima">
+    <display-name lang="en">Tata Sky Bhojpuri Sanima</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Bihar Jharkhand">
+    <display-name lang="en">Zee Bihar Jharkhand</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Oscar Movies Bhojpuri">
+    <display-name lang="en">Oscar Movies Bhojpuri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bhojpuri Cinema">
+    <display-name lang="en">Bhojpuri Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Big Ganga">
+    <display-name lang="en">Big Ganga</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Dishum">
+    <display-name lang="en">Dishum</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="B4U Bhojpuri">
+    <display-name lang="en">B4U Bhojpuri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Bhojpuri">
+    <display-name lang="en">Surya Bhojpuri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Theatre">
+    <display-name lang="en">Theatre</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Rajasthan">
+    <display-name lang="en">ETV Rajasthan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Z Rajasthan News">
+    <display-name lang="en">Z Rajasthan News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="First India Rajasthan">
+    <display-name lang="en">First India Rajasthan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="A1 TV">
+    <display-name lang="en">A1 TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 MP Chhattisgarh">
+    <display-name lang="en">News18 MP Chhattisgarh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="IBC 24">
+    <display-name lang="en">IBC 24</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ZEE MP CG">
+    <display-name lang="en">ZEE MP CG</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bansal News">
+    <display-name lang="en">Bansal News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="INH 24X7">
+    <display-name lang="en">INH 24X7</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sahara Samay MP CG">
+    <display-name lang="en">Sahara Samay MP CG</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Urdu">
+    <display-name lang="en">News18 Urdu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Salaam">
+    <display-name lang="en">Zee Salaam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Channel WIN">
+    <display-name lang="en">Channel WIN</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gulistan News">
+    <display-name lang="en">Gulistan News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Bharati">
+    <display-name lang="en">DD Bharati</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Uttar Pradesh">
+    <display-name lang="en">DD Uttar Pradesh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Bihar">
+    <display-name lang="en">DD Bihar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Madhyapradesh">
+    <display-name lang="en">DD Madhyapradesh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Rajasthan">
+    <display-name lang="en">DD Rajasthan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Urdu">
+    <display-name lang="en">DD Urdu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Marathi HD">
+    <display-name lang="en">Colors Marathi HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Marathi">
+    <display-name lang="en">Colors Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Marathi Cinema">
+    <display-name lang="en">Tata Sky Marathi Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Marathi HD">
+    <display-name lang="en">Zee Marathi HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Marathi">
+    <display-name lang="en">Zee Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Pravah HD">
+    <display-name lang="en">Star Pravah HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Pravah">
+    <display-name lang="en">STAR Pravah</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP Majha">
+    <display-name lang="en">ABP Majha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 18 Lokmat">
+    <display-name lang="en">News 18 Lokmat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="24 Taas">
+    <display-name lang="en">24 Taas</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Yuva">
+    <display-name lang="en">Zee Yuva</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Talkies HD">
+    <display-name lang="en">Zee Talkies HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Talkies">
+    <display-name lang="en">Zee Talkies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sony Marathi">
+    <display-name lang="en">Sony Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Saam TV">
+    <display-name lang="en">Saam TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="9X Jhakaas">
+    <display-name lang="en">9X Jhakaas</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jai Maharashtra">
+    <display-name lang="en">Jai Maharashtra</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV9 Marathi">
+    <display-name lang="en">TV9 Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sangeet Marathi">
+    <display-name lang="en">Sangeet Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Fakt Marathi">
+    <display-name lang="en">Fakt Marathi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Shemaroo MarathiBana">
+    <display-name lang="en">Shemaroo MarathiBana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="AM News">
+    <display-name lang="en">AM News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Prudent">
+    <display-name lang="en">Prudent</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Sahyadri">
+    <display-name lang="en">DD Sahyadri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bangla Cinema Promo">
+    <display-name lang="en">Bangla Cinema Promo</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP Ananda">
+    <display-name lang="en">ABP Ananda</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Bangla HD">
+    <display-name lang="en">Colors Bangla HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Bangla">
+    <display-name lang="en">Colors Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Bangla HD">
+    <display-name lang="en">Zee Bangla HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Bangla">
+    <display-name lang="en">Zee Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TS Bangla Cinema">
+    <display-name lang="en">TS Bangla Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Jalsha HD">
+    <display-name lang="en">Star Jalsha HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Jalsha">
+    <display-name lang="en">STAR Jalsha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aakash Aath">
+    <display-name lang="en">Aakash Aath</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="24 Ghante">
+    <display-name lang="en">24 Ghante</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SONY AATH">
+    <display-name lang="en">SONY AATH</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jalsha Movies">
+    <display-name lang="en">Jalsha Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jalsha Movies HD">
+    <display-name lang="en">Jalsha Movies HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sangeet Bangla">
+    <display-name lang="en">Sangeet Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Bangla Cinema">
+    <display-name lang="en">Zee Bangla Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 Bangla">
+    <display-name lang="en">Star Sports 1 Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kolkata TV">
+    <display-name lang="en">Kolkata TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Bangla">
+    <display-name lang="en">News18 Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun Bangla">
+    <display-name lang="en">Sun Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Rupashi Bangla">
+    <display-name lang="en">Rupashi Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News Time Bangla">
+    <display-name lang="en">News Time Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Music Fatafati">
+    <display-name lang="en">Music Fatafati</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Enterr10 Bangla">
+    <display-name lang="en">Enterr10 Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CTVN">
+    <display-name lang="en">CTVN</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Calcutta News">
+    <display-name lang="en">Calcutta News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Khushboo Bangla">
+    <display-name lang="en">Khushboo Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bangla Bharat">
+    <display-name lang="en">Bangla Bharat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Orange Music">
+    <display-name lang="en">Orange Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Bangla">
+    <display-name lang="en">DD Bangla</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Telugu Cinema">
+    <display-name lang="en">Tata Sky Telugu Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini Movies HD">
+    <display-name lang="en">Gemini Movies HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini Movies">
+    <display-name lang="en">Gemini Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sakshi TV">
+    <display-name lang="en">Sakshi TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Telugu HD">
+    <display-name lang="en">Zee Telugu HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Telugu">
+    <display-name lang="en">Zee Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini TV HD">
+    <display-name lang="en">Gemini TV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini TV">
+    <display-name lang="en">Gemini TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini Life">
+    <display-name lang="en">Gemini Life</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini Music">
+    <display-name lang="en">Gemini Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV HD">
+    <display-name lang="en">ETV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Telugu">
+    <display-name lang="en">ETV Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Andhrapradesh">
+    <display-name lang="en">ETV Andhrapradesh</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 Telugu">
+    <display-name lang="en">Star Sports 1 Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Maa HD">
+    <display-name lang="en">STAR Maa HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MAA TV">
+    <display-name lang="en">MAA TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky English in Telugu">
+    <display-name lang="en">Tata Sky English in Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV5">
+    <display-name lang="en">TV5</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV9">
+    <display-name lang="en">TV9</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NTV News">
+    <display-name lang="en">NTV News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Maa Movies HD">
+    <display-name lang="en">Star Maa Movies HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Maa Movies">
+    <display-name lang="en">Star Maa Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MAA Gold">
+    <display-name lang="en">MAA Gold</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABN Andhrajyothy">
+    <display-name lang="en">ABN Andhrajyothy</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="T News">
+    <display-name lang="en">T News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Maa Music">
+    <display-name lang="en">Maa Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="V6 Telugu">
+    <display-name lang="en">V6 Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Gemini Comedy">
+    <display-name lang="en">Gemini Comedy</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NT9">
+    <display-name lang="en">NT9</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Bhakti TV">
+    <display-name lang="en">Bhakti TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Shubhavaarta TV">
+    <display-name lang="en">Shubhavaarta TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Telengana">
+    <display-name lang="en">ETV Telengana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="HM TV">
+    <display-name lang="en">HM TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Cinema">
+    <display-name lang="en">ETV Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Plus">
+    <display-name lang="en">ETV Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Life">
+    <display-name lang="en">ETV Life</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ETV Abhiruchi">
+    <display-name lang="en">ETV Abhiruchi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cinemalu HD">
+    <display-name lang="en">Zee Cinemalu HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Cinemalu">
+    <display-name lang="en">Zee Cinemalu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CVR News">
+    <display-name lang="en">CVR News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CVR Spiritual OM">
+    <display-name lang="en">CVR Spiritual OM</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj News Telugu">
+    <display-name lang="en">Raj News Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vissa TV">
+    <display-name lang="en">Vissa TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="10 TV">
+    <display-name lang="en">10 TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Aradana TV">
+    <display-name lang="en">Aradana TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vanitha TV">
+    <display-name lang="en">Vanitha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj Musix Telugu">
+    <display-name lang="en">Raj Musix Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV 1">
+    <display-name lang="en">TV 1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="i-NEWS">
+    <display-name lang="en">i-NEWS</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Swara Sagar">
+    <display-name lang="en">Swara Sagar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Hindu Dharmam">
+    <display-name lang="en">Hindu Dharmam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Studio One +">
+    <display-name lang="en">Studio One +</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="99 Percent">
+    <display-name lang="en">99 Percent</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="4tv News">
+    <display-name lang="en">4tv News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SVBC Telugu">
+    <display-name lang="en">SVBC Telugu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Saptagiri">
+    <display-name lang="en">DD Saptagiri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Yadagiri">
+    <display-name lang="en">DD Yadagiri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Tamil Cinema">
+    <display-name lang="en">Tata Sky Tamil Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun TV HD">
+    <display-name lang="en">Sun TV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun TV">
+    <display-name lang="en">Sun TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="KTV HD">
+    <display-name lang="en">KTV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="KTV">
+    <display-name lang="en">KTV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun Life">
+    <display-name lang="en">Sun Life</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun Music HD">
+    <display-name lang="en">Sun Music HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun Music">
+    <display-name lang="en">Sun Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tamil Cinema Offer">
+    <display-name lang="en">Tamil Cinema Offer</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 Tamil">
+    <display-name lang="en">Star Sports 1 Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vijay HD">
+    <display-name lang="en">Vijay HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="STAR Vijay">
+    <display-name lang="en">STAR Vijay</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jaya TV HD">
+    <display-name lang="en">Jaya TV HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Tamil HD">
+    <display-name lang="en">Zee Tamil HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Tamil">
+    <display-name lang="en">Zee Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kalaignar TV">
+    <display-name lang="en">Kalaignar TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj TV">
+    <display-name lang="en">Raj TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Isai Aruvi">
+    <display-name lang="en">Isai Aruvi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Adithya TV">
+    <display-name lang="en">Adithya TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Puthiya  Thalaimurai">
+    <display-name lang="en">Puthiya  Thalaimurai</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vasanth TV">
+    <display-name lang="en">Vasanth TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Murasu TV">
+    <display-name lang="en">Murasu TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jaya Max">
+    <display-name lang="en">Jaya Max</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sirippoli">
+    <display-name lang="en">Sirippoli</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Polimer TV">
+    <display-name lang="en">Polimer TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Thanthi TV">
+    <display-name lang="en">Thanthi TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Makkal TV">
+    <display-name lang="en">Makkal TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jaya Plus">
+    <display-name lang="en">Jaya Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="D Tamil">
+    <display-name lang="en">D Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="J Movie">
+    <display-name lang="en">J Movie</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tamil Naaptol">
+    <display-name lang="en">Tamil Naaptol</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sun News">
+    <display-name lang="en">Sun News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 7 Tamil">
+    <display-name lang="en">News 7 Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="en">Mega TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Polimer News">
+    <display-name lang="en">Polimer News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vijay Super">
+    <display-name lang="en">Vijay Super</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Tamil Nadu">
+    <display-name lang="en">News18 Tamil Nadu</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Seithigal">
+    <display-name lang="en">Seithigal</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj Digital Plus">
+    <display-name lang="en">Raj Digital Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj Musix">
+    <display-name lang="en">Raj Musix</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Tamil HD">
+    <display-name lang="en">Colors Tamil HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Tamil">
+    <display-name lang="en">Colors Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj News Tamil">
+    <display-name lang="en">Raj News Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Madha TV">
+    <display-name lang="en">Madha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Angel TV">
+    <display-name lang="en">Angel TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sathiyam TV">
+    <display-name lang="en">Sathiyam TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MalaiMurasu Seithigal">
+    <display-name lang="en">MalaiMurasu Seithigal</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Captain News">
+    <display-name lang="en">Captain News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Peppers TV">
+    <display-name lang="en">Peppers TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mega Musiq">
+    <display-name lang="en">Mega Musiq</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mega 24">
+    <display-name lang="en">Mega 24</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sahana">
+    <display-name lang="en">Sahana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nambikkai TV">
+    <display-name lang="en">Nambikkai TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Moon TV">
+    <display-name lang="en">Moon TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Travelxp Tamil">
+    <display-name lang="en">Travelxp Tamil</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="WIN TV">
+    <display-name lang="en">WIN TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Vendhar TV">
+    <display-name lang="en">Vendhar TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News J">
+    <display-name lang="en">News J</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SVBC2">
+    <display-name lang="en">SVBC2</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Podhigai">
+    <display-name lang="en">DD Podhigai</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Kannada Cinema">
+    <display-name lang="en">Tata Sky Kannada Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Udaya HD">
+    <display-name lang="en">Udaya HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Udaya TV">
+    <display-name lang="en">Udaya TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Udaya Movies">
+    <display-name lang="en">Udaya Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Kannada HD">
+    <display-name lang="en">Colors Kannada HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Kannada">
+    <display-name lang="en">Colors Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV9 - Kannada">
+    <display-name lang="en">TV9 - Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Udaya Music">
+    <display-name lang="en">Udaya Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Suvarna HD">
+    <display-name lang="en">Star Suvarna HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Suvarna">
+    <display-name lang="en">Suvarna</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Kannada HD">
+    <display-name lang="en">Zee Kannada HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Kannada">
+    <display-name lang="en">Zee Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kasthuri">
+    <display-name lang="en">Kasthuri</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Suvarna News 24x7">
+    <display-name lang="en">Suvarna News 24x7</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Udaya Comedy">
+    <display-name lang="en">Udaya Comedy</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Public TV">
+    <display-name lang="en">Public TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Suvarna Plus">
+    <display-name lang="en">Suvarna Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News 18 Kannada">
+    <display-name lang="en">News 18 Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Kannada Cinema">
+    <display-name lang="en">Colors Kannada Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors SUPER">
+    <display-name lang="en">Colors SUPER</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV5 Kannada">
+    <display-name lang="en">TV5 Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kannada Naaptol">
+    <display-name lang="en">Kannada Naaptol</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj Musix Kannada">
+    <display-name lang="en">Raj Musix Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sri Sankara TV">
+    <display-name lang="en">Sri Sankara TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Sports 1 Kannada">
+    <display-name lang="en">Star Sports 1 Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Public Music">
+    <display-name lang="en">Public Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj News Kannada">
+    <display-name lang="en">Raj News Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Dighvijay News">
+    <display-name lang="en">Dighvijay News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ayush TV">
+    <display-name lang="en">Ayush TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Public Movies">
+    <display-name lang="en">Public Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Namma TV">
+    <display-name lang="en">Namma TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SVBC Kannada">
+    <display-name lang="en">SVBC Kannada</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD  Chandana">
+    <display-name lang="en">DD  Chandana</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Gujarati Cinema">
+    <display-name lang="en">Tata Sky Gujarati Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Gujarati">
+    <display-name lang="en">Colors Gujarati</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Gujarati Cinema">
+    <display-name lang="en">Colors Gujarati Cinema</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TV9 Gujarati">
+    <display-name lang="en">TV9 Gujarati</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="GSTV">
+    <display-name lang="en">GSTV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Sandesh News">
+    <display-name lang="en">Sandesh News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="CNBC Bajar">
+    <display-name lang="en">CNBC Bajar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Gujarati">
+    <display-name lang="en">News18 Gujarati</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ABP Asmita">
+    <display-name lang="en">ABP Asmita</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="VTV News">
+    <display-name lang="en">VTV News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee 24 Kalak">
+    <display-name lang="en">Zee 24 Kalak</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News Gujarat">
+    <display-name lang="en">India News Gujarat</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Girnar">
+    <display-name lang="en">DD Girnar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Colors Oriya">
+    <display-name lang="en">Colors Oriya</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tarang TV">
+    <display-name lang="en">Tarang TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tarang Music">
+    <display-name lang="en">Tarang Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="OTV">
+    <display-name lang="en">OTV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Sarthak">
+    <display-name lang="en">Zee Sarthak</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Prarthana TV">
+    <display-name lang="en">Prarthana TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Odisha">
+    <display-name lang="en">Zee Odisha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kanak News">
+    <display-name lang="en">Kanak News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kalinga TV">
+    <display-name lang="en">Kalinga TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Prameya News 7">
+    <display-name lang="en">Prameya News 7</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Odia">
+    <display-name lang="en">News18 Odia</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Alankar">
+    <display-name lang="en">Alankar</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Nandighosha TV">
+    <display-name lang="en">Nandighosha TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Oriya">
+    <display-name lang="en">DD Oriya</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya HD">
+    <display-name lang="en">Surya HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya TV">
+    <display-name lang="en">Surya TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Movies">
+    <display-name lang="en">Surya Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Asianet HD">
+    <display-name lang="en">Asianet HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Asianet">
+    <display-name lang="en">Asianet</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Asianet News">
+    <display-name lang="en">Asianet News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Asianet Plus">
+    <display-name lang="en">Asianet Plus</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Asianet Movies">
+    <display-name lang="en">Asianet Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Amrita TV">
+    <display-name lang="en">Amrita TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mazhavil Manorama HD">
+    <display-name lang="en">Mazhavil Manorama HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mazhavil Manorama">
+    <display-name lang="en">Mazhavil Manorama</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="People">
+    <display-name lang="en">People</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kairali TV">
+    <display-name lang="en">Kairali TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Keralam HD">
+    <display-name lang="en">Zee Keralam HD</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Keralam">
+    <display-name lang="en">Zee Keralam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Manorama News">
+    <display-name lang="en">Manorama News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Mathrubhumi News">
+    <display-name lang="en">Mathrubhumi News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jaihind TV">
+    <display-name lang="en">Jaihind TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Jeevan TV">
+    <display-name lang="en">Jeevan TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kappa TV">
+    <display-name lang="en">Kappa TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Music">
+    <display-name lang="en">Surya Music</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Flowers">
+    <display-name lang="en">Flowers</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Safari TV">
+    <display-name lang="en">Safari TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Goodness TV">
+    <display-name lang="en">Goodness TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Media One">
+    <display-name lang="en">Media One</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Janam TV">
+    <display-name lang="en">Janam TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="God TV">
+    <display-name lang="en">God TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Shalom TV">
+    <display-name lang="en">Shalom TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Kaumudy TV">
+    <display-name lang="en">Kaumudy TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="We TV">
+    <display-name lang="en">We TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Kerala">
+    <display-name lang="en">News18 Kerala</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ATE TV">
+    <display-name lang="en">ATE TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj Musix Malayalam">
+    <display-name lang="en">Raj Musix Malayalam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Raj News Malayalam">
+    <display-name lang="en">Raj News Malayalam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Surya Comedy">
+    <display-name lang="en">Surya Comedy</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Twenty Four">
+    <display-name lang="en">Twenty Four</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SVBC">
+    <display-name lang="en">SVBC</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Malayalam">
+    <display-name lang="en">DD Malayalam</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MH One">
+    <display-name lang="en">MH One</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Z PUNJAB HR HP">
+    <display-name lang="en">Z PUNJAB HR HP</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="PTC News">
+    <display-name lang="en">PTC News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Punjab Haryana Himachal">
+    <display-name lang="en">News18 Punjab Haryana Himachal</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="TS Punjab De Rang">
+    <display-name lang="en">TS Punjab De Rang</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="PTC Punjabi">
+    <display-name lang="en">PTC Punjabi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="PTC Chakde">
+    <display-name lang="en">PTC Chakde</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="9X Tashan">
+    <display-name lang="en">9X Tashan</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Chardikla Time TV">
+    <display-name lang="en">Chardikla Time TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="India News Punjab">
+    <display-name lang="en">India News Punjab</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Manoranjan Movies">
+    <display-name lang="en">Manoranjan Movies</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Pitaara">
+    <display-name lang="en">Pitaara</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="PTC Simran">
+    <display-name lang="en">PTC Simran</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="ANB NEWS">
+    <display-name lang="en">ANB NEWS</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Living India News">
+    <display-name lang="en">Living India News</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="PTC Punjabi Gold">
+    <display-name lang="en">PTC Punjabi Gold</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Balle Balle">
+    <display-name lang="en">Balle Balle</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Zee Punjabi">
+    <display-name lang="en">Zee Punjabi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Punjabi">
+    <display-name lang="en">DD Punjabi</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DY365.">
+    <display-name lang="en">DY365.</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="News18 Assam NE">
+    <display-name lang="en">News18 Assam NE</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NEWS LIVE">
+    <display-name lang="en">NEWS LIVE</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="NEPAL1">
+    <display-name lang="en">NEPAL1</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Rang TV">
+    <display-name lang="en">Rang TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Ramdhenu TV">
+    <display-name lang="en">Ramdhenu TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Protidin Time">
+    <display-name lang="en">Protidin Time</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Prag">
+    <display-name lang="en">Prag</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Rengoni TV">
+    <display-name lang="en">Rengoni TV</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="North East Live">
+    <display-name lang="en">North East Live</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="INDRADHANU">
+    <display-name lang="en">INDRADHANU</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Arunprabha">
+    <display-name lang="en">DD Arunprabha</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Manipur">
+    <display-name lang="en">DD Manipur</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD NE">
+    <display-name lang="en">DD NE</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="DD Kashir">
+    <display-name lang="en">DD Kashir</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="INSAT">
+    <display-name lang="en">INSAT</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="GSAT">
+    <display-name lang="en">GSAT</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Tata Sky Classroom">
+    <display-name lang="en">Tata Sky Classroom</display-name>
+    <url>http://www.tatasky.com</url>
+  </channel>
+</tv>
