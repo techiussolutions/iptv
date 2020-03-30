@@ -2416,8 +2416,8 @@
     <display-name lang="en">Surya Movies</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="MALAYALAM: ASIANET HD">
-    <display-name lang="en">MALAYALAM: ASIANET HD</display-name>
+  <channel id="ASIANET HD">
+    <display-name lang="en">ASIANET HD</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="Asianet">
@@ -2432,12 +2432,12 @@
     <display-name lang="en">Asianet Plus</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="MALAYALAM: ASIANET MOVIES ">
-    <display-name lang="en">MALAYALAM: ASIANET MOVIES</display-name>
+  <channel id="ASIANET MOVIES ">
+    <display-name lang="en">ASIANET MOVIES</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
-  <channel id="MALAYALAM: AMRITHA TV">
-    <display-name lang="en">MALAYALAM: AMRITHA TV</display-name>
+  <channel id="AMRITHA TV">
+    <display-name lang="en">AMRITHA TV</display-name>
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="Mazhavil Manorama HD">
