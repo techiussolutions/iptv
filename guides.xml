@@ -1,612 +1,612 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.MarvelIPTV.com">
+<tv generator fo-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator fo-url="http://www.MarvelIPTV.com">
   <channel id="And Pictures HD">
-    <display-name lang="en">And Pictures HD-IN</display-name>
+    <display-name lang="en">And Pictures HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="24 Ghanta TV">
-    <display-name lang="en">24 Ghanta TV-IN</display-name>
+    <display-name lang="en">24 Ghanta TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="9x Jhakaas">
-    <display-name lang="en">9x Jhakaas-IN</display-name>
+    <display-name lang="en">9x Jhakaas </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="9X Tashan">
-    <display-name lang="en">9X Tashan-IN</display-name>
+    <display-name lang="en">9X Tashan </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="ABP News India">
-    <display-name lang="en">ABP News India-IN</display-name>
+    <display-name lang="en">ABP News India </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="9XM">
-    <display-name lang="en">9XM-IN</display-name>
+    <display-name lang="en">9XM </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Asianet Plus HD">
-    <display-name lang="en">Asianet Plus HD-IN</display-name>
+    <display-name lang="en">Asianet Plus HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="And TV HD">
-    <display-name lang="en">And TV HD-IN</display-name>
+    <display-name lang="en">And TV HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Asianet News">
-    <display-name lang="en">Asianet News-IN</display-name>
+    <display-name lang="en">Asianet News </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Asianet Movies HD">
-    <display-name lang="en">Asianet Movies HD-IN</display-name>
+    <display-name lang="en">Asianet Movies HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="B4U Music">
-    <display-name lang="en">B4U Music-IN</display-name>
+    <display-name lang="en">B4U Music </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="B4U Movies">
-    <display-name lang="en">B4U Movies-IN</display-name>
+    <display-name lang="en">B4U Movies </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Aaj Tak">
-    <display-name lang="en">Aaj Tak-IN</display-name>
+    <display-name lang="en">Aaj Tak </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Colors HD">
-    <display-name lang="en">Colors HD-IN</display-name>
+    <display-name lang="en">Colors HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="DD Bangla">
-    <display-name lang="en">DD Bangla-IN</display-name>
+    <display-name lang="en">DD Bangla </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Desi Channel">
-    <display-name lang="en">Desi Channel-IN</display-name>
+    <display-name lang="en">Desi Channel </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="DD News">
-    <display-name lang="en">DD News-IN</display-name>
+    <display-name lang="en">DD News </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Gemini Movies HD">
-    <display-name lang="en">Gemini Movies HD-IN</display-name>
+    <display-name lang="en">Gemini Movies HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="ET Now">
-    <display-name lang="en">ET Now-IN</display-name>
+    <display-name lang="en">ET Now </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="NDTV Good Times">
-    <display-name lang="en">NDTV Good Times-IN</display-name>
+    <display-name lang="en">NDTV Good Times </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Food Food">
-    <display-name lang="en">Food Food-IN</display-name>
+    <display-name lang="en">Food Food </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Gemini Comedy">
-    <display-name lang="en">Gemini Comedy-IN</display-name>
+    <display-name lang="en">Gemini Comedy </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="India Today">
-    <display-name lang="en">India Today-IN</display-name>
+    <display-name lang="en">India Today </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Jaya Max">
-    <display-name lang="en">Jaya Max-IN</display-name>
+    <display-name lang="en">Jaya Max </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Jaya Plus">
-    <display-name lang="en">Jaya Plus-IN</display-name>
+    <display-name lang="en">Jaya Plus </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="KTV HD">
-    <display-name lang="en">KTV HD-IN</display-name>
+    <display-name lang="en">KTV HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Kairali People TV">
-    <display-name lang="en">Kairali People TV-IN</display-name>
+    <display-name lang="en">Kairali People TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Jalsha HD">
-    <display-name lang="en">Star Jalsha HD-IN</display-name>
+    <display-name lang="en">Star Jalsha HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="NTV">
-    <display-name lang="en">NTV-IN</display-name>
+    <display-name lang="en">NTV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Gold HD">
-    <display-name lang="en">Star Gold HD-IN</display-name>
+    <display-name lang="en">Star Gold HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Rishtey Cineplex">
-    <display-name lang="en">Rishtey Cineplex-IN</display-name>
+    <display-name lang="en">Rishtey Cineplex </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Maa Gold HD">
-    <display-name lang="en">Maa Gold HD-IN</display-name>
+    <display-name lang="en">Maa Gold HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Media One TV">
-    <display-name lang="en">Media One TV-IN</display-name>
+    <display-name lang="en">Media One TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sony Max HD">
-    <display-name lang="en">Sony Max HD-IN</display-name>
+    <display-name lang="en">Sony Max HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sony SAB">
-    <display-name lang="en">Sony SAB-IN</display-name>
+    <display-name lang="en">Sony SAB </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sun TV">
-    <display-name lang="en">Sun TV-IN</display-name>
+    <display-name lang="en">Sun TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Plus HD">
-    <display-name lang="en">Star Plus HD-IN</display-name>
+    <display-name lang="en">Star Plus HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="PBN Music">
-    <display-name lang="en">PBN Music-IN</display-name>
+    <display-name lang="en">PBN Music </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sanjha TV">
-    <display-name lang="en">Sanjha TV-IN</display-name>
+    <display-name lang="en">Sanjha TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Suvarna HD">
-    <display-name lang="en">Suvarna HD-IN</display-name>
+    <display-name lang="en">Suvarna HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Raj Musix">
-    <display-name lang="en">Raj Musix-IN</display-name>
+    <display-name lang="en">Raj Musix </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Raj Digital Plus">
-    <display-name lang="en">Raj Digital Plus-IN</display-name>
+    <display-name lang="en">Raj Digital Plus </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Puthiya Thalimurai">
-    <display-name lang="en">Puthiya Thalimurai-IN</display-name>
+    <display-name lang="en">Puthiya Thalimurai </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Republic TV">
-    <display-name lang="en">Republic TV-IN</display-name>
+    <display-name lang="en">Republic TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Raj News 24x7">
-    <display-name lang="en">Raj News 24x7-IN</display-name>
+    <display-name lang="en">Raj News 24x7 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Rishtey">
-    <display-name lang="en">Rishtey-IN</display-name>
+    <display-name lang="en">Rishtey </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Nickelodeon">
-    <display-name lang="en">Nickelodeon-IN</display-name>
+    <display-name lang="en">Nickelodeon </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="NDTV India">
-    <display-name lang="en">NDTV India-IN</display-name>
+    <display-name lang="en">NDTV India </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Movies OK HD">
-    <display-name lang="en">Movies OK HD-IN</display-name>
+    <display-name lang="en">Movies OK HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="NDTV 24x7">
-    <display-name lang="en">NDTV 24x7-IN</display-name>
+    <display-name lang="en">NDTV 24x7 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="MTV">
-    <display-name lang="en">MTV-IN</display-name>
+    <display-name lang="en">MTV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sony Mix">
-    <display-name lang="en">Sony Mix-IN</display-name>
+    <display-name lang="en">Sony Mix </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Music India">
-    <display-name lang="en">Music India-IN</display-name>
+    <display-name lang="en">Music India </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Times Now HD">
-    <display-name lang="en">Times Now HD-IN</display-name>
+    <display-name lang="en">Times Now HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Ten 1">
-    <display-name lang="en">Ten 1-IN</display-name>
+    <display-name lang="en">Ten 1 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Ten 2">
-    <display-name lang="en">Ten 2-IN</display-name>
+    <display-name lang="en">Ten 2 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Utsav HD">
-    <display-name lang="en">Star Utsav HD-IN</display-name>
+    <display-name lang="en">Star Utsav HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zing">
-    <display-name lang="en">Zing-IN</display-name>
+    <display-name lang="en">Zing </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Action">
-    <display-name lang="en">Zee Action-IN</display-name>
+    <display-name lang="en">Zee Action </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee News">
-    <display-name lang="en">Zee News-IN</display-name>
+    <display-name lang="en">Zee News </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Classic">
-    <display-name lang="en">Zee Classic-IN</display-name>
+    <display-name lang="en">Zee Classic </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="ZOOM">
-    <display-name lang="en">ZOOM-IN</display-name>
+    <display-name lang="en">ZOOM </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee etc">
-    <display-name lang="en">Zee etc-IN</display-name>
+    <display-name lang="en">Zee etc </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Punjabi HP Haryana">
-    <display-name lang="en">Zee Punjabi HP Haryana-IN</display-name>
+    <display-name lang="en">Zee Punjabi HP Haryana </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee TV HD">
-    <display-name lang="en">Zee TV HD-IN</display-name>
+    <display-name lang="en">Zee TV HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Tamil">
-    <display-name lang="en">Zee Tamil-IN</display-name>
+    <display-name lang="en">Zee Tamil </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Anmol Cinema">
-    <display-name lang="en">Zee Anmol Cinema-IN</display-name>
+    <display-name lang="en">Zee Anmol Cinema </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Bangla">
-    <display-name lang="en">Zee Bangla-IN</display-name>
+    <display-name lang="en">Zee Bangla </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Talkies">
-    <display-name lang="en">Zee Talkies-IN</display-name>
+    <display-name lang="en">Zee Talkies </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="India TV">
-    <display-name lang="en">India TV-IN</display-name>
+    <display-name lang="en">India TV </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Sony HD">
-    <display-name lang="en">Sony HD-IN</display-name>
+    <display-name lang="en">Sony HD </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="News 24">
-    <display-name lang="en">News 24-IN</display-name>
+    <display-name lang="en">News 24 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Sports 1">
-    <display-name lang="en">Star Sports 1-IN</display-name>
+    <display-name lang="en">Star Sports 1 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Star Sports 2">
-    <display-name lang="en">Star Sports 2-IN</display-name>
+    <display-name lang="en">Star Sports 2 </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="DD India">
-    <display-name lang="en">DD India-IN</display-name>
+    <display-name lang="en">DD India </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="Zee Bollywood">
-    <display-name lang="en">Zee Bollywood-IN</display-name>
+    <display-name lang="en">Zee Bollywood </display-name>
     <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="E24">
-    <display-name lang="en">E24-IN</display-name>
+    <display-name lang="en">E24 </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000003890000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Jaya TV HD">
-    <display-name lang="en">Jaya TV HD-IN</display-name>
+    <display-name lang="en">Jaya TV HD </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/6QYSOIfz.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Sony Ten 2">
-    <display-name lang="en">Sony Ten 2-IN</display-name>
+    <display-name lang="en">Sony Ten 2 </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/a2hvC1X4.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Sudarshan News">
-    <display-name lang="en">Sudarshan News-IN</display-name>
+    <display-name lang="en">Sudarshan News </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/YyG7u5T4.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Sony ESPN">
-    <display-name lang="en">Sony ESPN-IN</display-name>
+    <display-name lang="en">Sony ESPN </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000039710000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Star Movies">
-    <display-name lang="en">Star Movies-IN</display-name>
+    <display-name lang="en">Star Movies </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000000100000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="PTC Chakde">
-    <display-name lang="en">PTC Chakde-IN</display-name>
+    <display-name lang="en">PTC Chakde </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000005300000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="PTC Punjabi">
-    <display-name lang="en">PTC Punjabi-IN</display-name>
+    <display-name lang="en">PTC Punjabi </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000004250000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="PTC News">
-    <display-name lang="en">PTC News-IN</display-name>
+    <display-name lang="en">PTC News </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000002670000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Manoranjan Movies">
-    <display-name lang="en">Manoranjan Movies-IN</display-name>
+    <display-name lang="en">Manoranjan Movies </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/8BIigs29.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Sun Music">
-    <display-name lang="en">Sun Music-IN</display-name>
+    <display-name lang="en">Sun Music </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000000630000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="UTV Movies">
-    <display-name lang="en">UTV Movies-IN</display-name>
+    <display-name lang="en">UTV Movies </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/6Vrn6s8m.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Global Sanjh">
-    <display-name lang="en">Global Sanjh-IN</display-name>
+    <display-name lang="en">Global Sanjh </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/7pojPjzw.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="MH1">
-    <display-name lang="en">MH1-IN</display-name>
+    <display-name lang="en">MH1 </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/PIAbhiiw.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="UTV Movies International">
-    <display-name lang="en">UTV Movies International-IN</display-name>
+    <display-name lang="en">UTV Movies International </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/iwKVbKzu.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="MH1 News">
-    <display-name lang="en">MH1 News-IN</display-name>
+    <display-name lang="en">MH1 News </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000003590000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="WOA B4U Aflam">
-    <display-name lang="en">WOA B4U Aflam-IN</display-name>
+    <display-name lang="en">WOA B4U Aflam </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000007870000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="WOA B4U Plus">
-    <display-name lang="en">WOA B4U Plus-IN</display-name>
+    <display-name lang="en">WOA B4U Plus </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/eNu9fcCa.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Colors Rishtey Europe">
-    <display-name lang="en">Colors Rishtey Europe-IN</display-name>
+    <display-name lang="en">Colors Rishtey Europe </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000022660000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="SONY SIX">
-    <display-name lang="en">SONY SIX-IN</display-name>
+    <display-name lang="en">SONY SIX </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/WoR1EkV8.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Zee Cinema">
-    <display-name lang="en">Zee Cinema-IN</display-name>
+    <display-name lang="en">Zee Cinema </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/cgj1lUZC.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Zee Business">
-    <display-name lang="en">Zee Business-IN</display-name>
+    <display-name lang="en">Zee Business </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/yD9Ef3Hj.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="NEP ARY Zindagi">
-    <display-name lang="en">NEP ARY Zindagi-IN</display-name>
+    <display-name lang="en">NEP ARY Zindagi </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000040000000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Raj TV">
-    <display-name lang="en">Raj TV-IN</display-name>
+    <display-name lang="en">Raj TV </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000001030000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Star Sports 3">
-    <display-name lang="en">Star Sports 3-IN</display-name>
+    <display-name lang="en">Star Sports 3 </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/5E1TPQBC.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Star Pravah">
-    <display-name lang="en">Star Pravah-IN</display-name>
+    <display-name lang="en">Star Pravah </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/h4yqfAJ5.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Manorama News">
-    <display-name lang="en">Manorama News-IN</display-name>
+    <display-name lang="en">Manorama News </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000002030000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="DD Punjabi">
-    <display-name lang="en">DD Punjabi-IN</display-name>
+    <display-name lang="en">DD Punjabi </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/FNGBVTAb.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Bindass">
-    <display-name lang="en">Bindass-IN</display-name>
+    <display-name lang="en">Bindass </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/91VLlGQC.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Asianet">
-    <display-name lang="en">Asianet-IN</display-name>
+    <display-name lang="en">Asianet </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000001470000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="ABP News">
-    <display-name lang="en">ABP News-IN</display-name>
+    <display-name lang="en">ABP News </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/7ik3cib8.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Sonic">
-    <display-name lang="en">Sonic-IN</display-name>
+    <display-name lang="en">Sonic </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/brwtkEKG.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Jaya TV">
-    <display-name lang="en">Jaya TV-IN</display-name>
+    <display-name lang="en">Jaya TV </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/Jaya_TV.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Dhoom Music">
-    <display-name lang="en">Dhoom Music-IN</display-name>
+    <display-name lang="en">Dhoom Music </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/fwxPwwCw.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Studio One">
-    <display-name lang="en">Studio One-IN</display-name>
+    <display-name lang="en">Studio One </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000022690000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="News 18 India">
-    <display-name lang="en">News 18 India-IN</display-name>
+    <display-name lang="en">News 18 India </display-name>
     <icon src="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="Travelxp HD">
-    <display-name lang="en">Travelxp HD-IN</display-name>
+    <display-name lang="en">Travelxp HD </display-name>
     <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="STAR Vijay">
-    <display-name lang="en">STAR Vijay-IN</display-name>
+    <display-name lang="en">STAR Vijay </display-name>
     <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12005-j9nsjtmg-v2/imageContent-12005-j9nsjtmg-m3.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12005-j9nsjtmg-v2/imageContent-12005-j9nsjtmg-m3.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12005-j9nsjtmg-v2/imageContent-12005-j9nsjtmg-m3.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="JAK Zee Smile">
-    <display-name lang="en">JAK Zee Smile-IN</display-name>
+    <display-name lang="en">JAK Zee Smile </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000001830000.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Zee Smile USA">
-    <display-name lang="en">Zee Smile USA-IN</display-name>
+    <display-name lang="en">Zee Smile USA </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/vR2FPgO7.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Living Foodz">
-    <display-name lang="en">Living Foodz-IN</display-name>
+    <display-name lang="en">Living Foodz </display-name>
     <icon src="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/E3ZgOI5q.png" />
     <url>http://www.whatson.com</url>
   </channel>
   <channel id="Z ETC Bollywood">
-    <display-name lang="en">Z ETC Bollywood-IN</display-name>
+    <display-name lang="en">Z ETC Bollywood </display-name>
     <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11185-j9i46ahc-v1/imageContent-11185-j9i46ahc-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11185-j9i46ahc-v1/imageContent-11185-j9i46ahc-m1.png|http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11185-j9i46ahc-v1/imageContent-11185-j9i46ahc-m1.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="SONY YAY">
-    <display-name lang="en">SONY YAY-IN</display-name>
+    <display-name lang="en">SONY YAY </display-name>
     <icon src="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v2/imageContent-132-j5fpedbs-m2.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v2/imageContent-132-j5fpedbs-m2.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v2/imageContent-132-j5fpedbs-m2.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="Chardikla Time TV">
-    <display-name lang="en">Chardikla Time TV-IN</display-name>
+    <display-name lang="en">Chardikla Time TV </display-name>
     <icon src="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png|http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-792-j5m75dww-v1/imageContent-792-j5m75dww-m1.png" />
     <url>http://www.tatasky.com</url>
   </channel>
   <channel id="mh1 Shraddha">
-    <display-name lang="en">mh1 Shraddha-IN</display-name>
+    <display-name lang="en">mh1 Shraddha </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" />
     <url>http://www.joitv.com</url>
   </channel>
   <channel id="mh1 (Music)">
-    <display-name lang="en">mh1 (Music)-IN</display-name>
+    <display-name lang="en">mh1 (Music) </display-name>
     <icon src="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" />
     <url>http://www.joitv.com</url>
   </channel>
@@ -901,7 +901,7 @@
   </programme>
   <programme start="20200331182700 +0000" stop="20200331211700 +0000" channel="Zee Bollywood">
     <title lang="en">Sanam</title>
-    <desc lang="en">Gaurav is deprived of love from his family. After his elder brother Narendra dies in an accident, Gaurav attempts to fill-in for him and joins the army to make his father proud.</desc>
+    <desc lang="en">Gaurav is deprived of love from his family. After his elder brother Narendra dies in an accident, Gaurav attempts to fill  for him and joins the army to make his father proud.</desc>
     <credits>
       <actor>Sanjay Dutt</actor>
       <actor>Manisha Koirala</actor>
@@ -8314,7 +8314,7 @@
   </programme>
   <programme start="20200330024300 +0000" stop="20200330053800 +0000" channel="UTV Movies">
     <title lang="en">Ghar Dwaar</title>
-    <desc lang="en">A humiliated daughter-in-law vows to exact revenge on her in-laws and turn their home into a battleground by turning all the family members against each other.</desc>
+    <desc lang="en">A humiliated daughter -law vows to exact revenge on her in-laws and turn their home into a battleground by turning all the family members against each other.</desc>
     <credits>
       <director>Kalpataru</director>
       <actor>Tanuja</actor>
@@ -8439,7 +8439,7 @@
   </programme>
   <programme start="20200331030500 +0000" stop="20200331054000 +0000" channel="UTV Movies">
     <title lang="en">Jai Dakshineshwar Kali Maa</title>
-    <desc lang="en">A young woman is harassed and tormented by her mother-in-law. She is rescued from her predicament by the Goddess Kali who is pleased with her ardent devotion.</desc>
+    <desc lang="en">A young woman is harassed and tormented by her mother -law. She is rescued from her predicament by the Goddess Kali who is pleased with her ardent devotion.</desc>
     <credits>
       <director>Shantilal Soni</director>
       <actor>Hema Malini</actor>
@@ -9702,7 +9702,7 @@
   </programme>
   <programme start="20200331143000 +0000" stop="20200331173000 +0000" channel="MH1">
     <title lang="en">Laavaan Phere</title>
-    <desc lang="en">A young man falls in love with a woman and decides to marry her. However, his brothers-in-law and the bride's hot-headed father create complications.</desc>
+    <desc lang="en">A young man falls in love with a woman and decides to marry her. However, his brothers -law and the bride's hot-headed father create complications.</desc>
     <credits>
       <director>Smeep Kang</director>
       <actor>Rubina Bajwa</actor>
@@ -10075,7 +10075,7 @@
   </programme>
   <programme start="20200330230800 +0000" stop="20200331014600 +0000" channel="UTV Movies International">
     <title lang="en">Damini</title>
-    <desc lang="en">Damini witnesses her housemaid being raped by her brother-in-law and his friends. Despite facing many obstacles, she strives to get justice for her with the help of her husband and Govind, a lawyer.</desc>
+    <desc lang="en">Damini witnesses her housemaid being raped by her brother -law and his friends. Despite facing many obstacles, she strives to get justice for her with the help of her husband and Govind, a lawyer.</desc>
     <credits>
       <director>Rajkumar Santoshi</director>
       <actor>Meenakshi Sheshadri</actor>
@@ -12263,7 +12263,7 @@
   </programme>
   <programme start="20200330073000 +0000" stop="20200330080000 +0000" channel="Colors Rishtey Europe">
     <title lang="en">Bharadwaj Bahuein</title>
-    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters-in-law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
+    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters -law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
     <credits>
       <director>Pawan Kumar Marut</director>
       <actor>Dipika Kakar</actor>
@@ -12352,7 +12352,7 @@
   </programme>
   <programme start="20200330123000 +0000" stop="20200330130000 +0000" channel="Colors Rishtey Europe">
     <title lang="en">Bharadwaj Bahuein</title>
-    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters-in-law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
+    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters -law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
     <credits>
       <director>Pawan Kumar Marut</director>
       <actor>Dipika Kakar</actor>
@@ -12669,7 +12669,7 @@
   </programme>
   <programme start="20200331020000 +0000" stop="20200331023000 +0000" channel="Colors Rishtey Europe">
     <title lang="en">Bharadwaj Bahuein</title>
-    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters-in-law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
+    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters -law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
     <credits>
       <director>Pawan Kumar Marut</director>
       <actor>Dipika Kakar</actor>
@@ -12822,7 +12822,7 @@
   </programme>
   <programme start="20200331073000 +0000" stop="20200331080000 +0000" channel="Colors Rishtey Europe">
     <title lang="en">Bharadwaj Bahuein</title>
-    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters-in-law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
+    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters -law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
     <credits>
       <director>Pawan Kumar Marut</director>
       <actor>Dipika Kakar</actor>
@@ -12911,7 +12911,7 @@
   </programme>
   <programme start="20200331123000 +0000" stop="20200331130000 +0000" channel="Colors Rishtey Europe">
     <title lang="en">Bharadwaj Bahuein</title>
-    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters-in-law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
+    <desc lang="en">Sisters Simar and Roli fall in love with two brothers, Prem and Sid, and become daughters -law of the Bharadwaj household, managing various difficult situations and rescuing their families.</desc>
     <credits>
       <director>Pawan Kumar Marut</director>
       <actor>Dipika Kakar</actor>
@@ -16588,7 +16588,7 @@
   <programme start="20200330043000 +0000" stop="20200330050000 +0000" channel="Raj TV">
     <title lang="en">Mann Vasanai</title>
     <sub-title lang="en">Part-01</sub-title>
-    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter-in-law.</desc>
+    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter -law.</desc>
     <credits>
       <director>Sidharth Sengupta</director>
       <director>Pradeep Yadav</director>
@@ -16715,7 +16715,7 @@
   <programme start="20200330133000 +0000" stop="20200330140000 +0000" channel="Raj TV">
     <title lang="en">Mann Vasanai</title>
     <sub-title lang="en">Part-01</sub-title>
-    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter-in-law.</desc>
+    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter -law.</desc>
     <credits>
       <director>Sidharth Sengupta</director>
       <director>Pradeep Yadav</director>
@@ -16852,7 +16852,7 @@
   </programme>
   <programme start="20200331043000 +0000" stop="20200331050000 +0000" channel="Raj TV">
     <title lang="en">Mann Vasanai</title>
-    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter-in-law.</desc>
+    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter -law.</desc>
     <credits>
       <director>Sidharth Sengupta</director>
       <director>Pradeep Yadav</director>
@@ -16966,7 +16966,7 @@
   </programme>
   <programme start="20200331133000 +0000" stop="20200331140000 +0000" channel="Raj TV">
     <title lang="en">Mann Vasanai</title>
-    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter-in-law.</desc>
+    <desc lang="en">Anandi, a young girl, is forcibly married to Jagdish who hails from a rich family. She faces problems as she is expected to fulfil the duties of a daughter -law.</desc>
     <credits>
       <director>Sidharth Sengupta</director>
       <director>Pradeep Yadav</director>
@@ -23694,7 +23694,7 @@
   </programme>
   <programme start="20200330140500 +0000" stop="20200330143000 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -23827,7 +23827,7 @@
   </programme>
   <programme start="20200330214000 +0000" stop="20200330220000 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -23916,7 +23916,7 @@
   </programme>
   <programme start="20200331000000 +0000" stop="20200331001500 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -24116,7 +24116,7 @@
   </programme>
   <programme start="20200331083000 +0000" stop="20200331085000 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -24291,7 +24291,7 @@
   </programme>
   <programme start="20200331140500 +0000" stop="20200331143000 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -24435,7 +24435,7 @@
   </programme>
   <programme start="20200331214000 +0000" stop="20200331220000 +0000" channel="Asianet">
     <title lang="en">Kudumbavilakku</title>
-    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter-in-law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
+    <desc lang="en">A woman does not get a moment of rest while doing all the household chores on top of being a dutiful wife, daughter -law and mother. Yet, she is never acknowledged or appreciated for her work.</desc>
     <credits>
       <actor>Meera Vasudevan</actor>
     </credits>
@@ -29113,7 +29113,7 @@
   </programme>
   <programme start="20200329193000 +0000" stop="20200329200000 +0000" channel="STAR Vijay">
     <title lang="en">Eeramaana Rojavey</title>
-    <desc lang="en">Things get complicated when a reluctant Anbukarasi refuses to accept Malar as her daughter-in-law.</desc>
+    <desc lang="en">Things get complicated when a reluctant Anbukarasi refuses to accept Malar as her daughter -law.</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/08F9F5BBADBE1A15D54FE14FABDE446F615FC57D2.jpg" />
     <episode-num system="onscreen">E515</episode-num>
